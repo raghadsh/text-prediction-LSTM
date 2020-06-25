@@ -1,0 +1,1 @@
+This is a character-level text prediction RNN with LSTM units 
